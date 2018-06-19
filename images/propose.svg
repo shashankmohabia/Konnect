@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="112px" height="95px" viewBox="0 0 112 95" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: sketchtool 3.4.4 (395) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 6 + Fill 7</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Phase-0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Static/Rules" sketch:type="MSArtboardGroup" transform="translate(-263.000000, -268.000000)">
+            <g id="Icons" sketch:type="MSLayerGroup" transform="translate(264.000000, 269.000000)">
+                <g id="Fill-6-+-Fill-7" sketch:type="MSShapeGroup">
+                    <path d="M27.7612556,93 L0.544607143,46.5 L27.7612556,0 L82.1957989,0 L109.411201,46.5 L82.1957989,93 L27.7612556,93" id="Fill-6" stroke="#00D1CB" stroke-width="2"></path>
+                    <path d="M59.3933346,23.65424 L41.732859,23.65424 C39.3039361,23.65424 37.3398609,25.63204 37.3398609,28.04756 L37.3174286,63.19288 C37.3174286,65.6084 39.2815038,67.58496 41.7104267,67.58496 L68.2229492,67.58496 C70.6518722,67.58496 72.6383797,65.6084 72.6383797,63.19288 L72.6383797,36.8342 L59.3933346,23.65424 L59.3933346,23.65424 Z M46.1482895,54.40624 L63.808765,54.40624 L63.808765,58.79956 L46.1482895,58.79956 L46.1482895,54.40624 Z M46.1482895,45.6196 L63.808765,45.6196 L63.808765,50.01292 L46.1482895,50.01292 L46.1482895,45.6196 Z M57.1849962,39.03024 L57.1849962,26.95016 L69.3271184,39.03024 L57.1849962,39.03024 L57.1849962,39.03024 Z" id="Fill-7" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
