@@ -55,6 +55,10 @@ body {
 	-webkit-text-size-adjust: none;
 }
 
+.img-circle {
+	border-radius: 50%;
+}
+
 mark {
 	background-color: transparent;
 	color: inherit;
@@ -2445,11 +2449,11 @@ input, select, textarea {
 			border-radius: 100%;
 			cursor: default;
 			display: inline-block;
-			height: 6em;
+			height: 10em;
 			line-height: 6em;
 			margin: 0 0 2em 0;
 			text-align: center;
-			width: 6em;
+			width: 10em;
 		}
 
 			.icon.major:before {
